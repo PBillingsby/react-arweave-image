@@ -28,4 +28,4 @@ const Page = () => {
 }
 ```
 
-Made by [Dhaiwat](https://twitter.com/dhaiwat10)! :)
+Made by [pbillingsby](https://twitter.com/pbillingsby_eth) with major help from [Dhaiwat](https://twitter.com/dhaiwat10)

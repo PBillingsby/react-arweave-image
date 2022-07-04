@@ -19,10 +19,10 @@ const Page = () => {
   return (
     <>
       {/* pass image hash */}
-      <ArweaveImage hash='krcFgAxEgafePxlPlcoBkrv0_Kjc2Scnqccqry6HnPY'>
+      <ArweaveImage hash='o-z1Ea6xXyERnujaFyMZwHlsr2SLwnVyDqjP88V2zeE'>
       
       {/* you can also pass in *any* props you can pass to a native HTML `img` tag */}
-      <ArweaveImage hash='krcFgAxEgafePxlPlcoBkrv0_Kjc2Scnqccqry6HnPY' alt='my image' className='mt-2 rounded' onClick={() => {}} />
+      <ArweaveImage hash='o-z1Ea6xXyERnujaFyMZwHlsr2SLwnVyDqjP88V2zeE' alt='my image' className='mt-2 rounded' onClick={() => {}} />
     </>
   )
 }

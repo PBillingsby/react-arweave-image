@@ -26,5 +26,5 @@ const Template: Story<IArweaveImageProps> = args => <ArweaveImage {...args} styl
 export const Default = Template.bind({});
 
 Default.args = {
-  hash: 'krcFgAxEgafePxlPlcoBkrv0_Kjc2Scnqccqry6HnPY',
+  hash: 'o-z1Ea6xXyERnujaFyMZwHlsr2SLwnVyDqjP88V2zeE',
 };
